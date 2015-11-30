@@ -1,4 +1,4 @@
-module.exports = function(data) {
+module.exports.analyze = function(data) {
 	sortData(data);
 
 	return {
