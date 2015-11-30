@@ -1,0 +1,23 @@
+{
+  "name": "statistics",
+  "version": "1.0.0",
+  "description": "A module for performing statistical operations",
+  "main": "statistics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch89/statistics.git"
+  },
+  "keywords": [
+    "statistics",
+    "math"
+  ],
+  "author": "ch89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch89/statistics/issues"
+  },
+  "homepage": "https://github.com/ch89/statistics#readme"
+}
